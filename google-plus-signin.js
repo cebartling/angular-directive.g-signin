@@ -27,8 +27,8 @@ angular.module('directive.g+signin', []).
                     cookiepolicy: 'single_host_origin',
                     requestvisibleactions: 'http://schemas.google.com/AddActivity',
                     scope: 'https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email',
-                    height: 'standard',
-                    width: 'wide',
+                    height: '300',
+                    width: '42',
                     state: '',
                     theme: 'dark'
                 };
